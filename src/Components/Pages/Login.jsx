@@ -21,7 +21,7 @@ const Login = ({ onLogin }) => {
   return (
     <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '80vh' }}>
       <form onSubmit={handleSubmit}>
-        <h1>Admin Login</h1>
+        <h1>Sign In </h1>
         <div className="col-md-12">
           <label htmlFor="exampleInputEmail1" className="form-label text-align">Email address</label>
           <input
