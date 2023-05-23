@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/oonzoo_Reactjs/static/css/main.31303772.css",
+    "main.js": "/oonzoo_Reactjs/static/js/main.143cb5ac.js",
+    "static/js/787.d3befce1.chunk.js": "/oonzoo_Reactjs/static/js/787.d3befce1.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/oonzoo_Reactjs/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/oonzoo_Reactjs/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/oonzoo_Reactjs/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/oonzoo_Reactjs/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/oonzoo_Reactjs/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/bg.avif": "/oonzoo_Reactjs/static/media/bg.010d894d63c4b0d45e45.avif",
+    "index.html": "/oonzoo_Reactjs/index.html",
+    "main.31303772.css.map": "/oonzoo_Reactjs/static/css/main.31303772.css.map",
+    "main.143cb5ac.js.map": "/oonzoo_Reactjs/static/js/main.143cb5ac.js.map",
+    "787.d3befce1.chunk.js.map": "/oonzoo_Reactjs/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31303772.css",
+    "static/js/main.143cb5ac.js"
+  ]
+}
